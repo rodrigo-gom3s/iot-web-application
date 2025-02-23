@@ -1,4 +1,8 @@
 # IoT Web Application
+
+>[!WARNING]
+>The content of this repository was created for academic purposes and cannot be reused or reimplemented.
+
 A web application for managing sensors and actuators in a city
 
 The application features a web interface that displays the city's status based on data received from sensors. It can also trigger actuators.
